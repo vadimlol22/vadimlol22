@@ -1,3 +1,11 @@
+<div align="center">
+  <h1>
+    Hola! I'm Vadim Kruglikov 👋
+  </h1> 
+
+
+### 💻 I'm currently looking for a job.
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100"/>
 </div>
@@ -9,7 +17,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vadimlol22&style=flat-square&color=blue" alt="counter"/>  
 </div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<div align="center">
+ <h1>📈 Codewars</h1>
+<img src='https://www.codewars.com/users/vadimlol22/badges/large'>
+</div>
